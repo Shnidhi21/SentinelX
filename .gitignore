@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Model files
+*.pkl
+
+# Generated data
+data/raw/*.json
+data/processed/*.json
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
