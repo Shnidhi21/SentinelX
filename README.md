@@ -1,5 +1,5 @@
 # SentinelX
-
+![SentinelX Dashboard](Screenshot%20%28513%29.png)
 ### AI-Powered Cybersecurity Threat Detection & Response Platform
 
 SentinelX is a cybersecurity platform designed to detect suspicious behavioral patterns, correlate multi-stage attack activity, map incidents to MITRE ATT&CK techniques, assess risk, and recommend automated defensive responses.
